@@ -1,0 +1,5 @@
+{
+	"Amazon" : {
+		"lambda-arn" : "YOUR ARN HERE",
+	}
+}
