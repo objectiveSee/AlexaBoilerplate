@@ -23,6 +23,10 @@ Configuring the sample app is as easy as pasting the ARN of your Lambda function
 grunt deploy
 ```
 
+## The Sample Project
+
+Check out `index.js` for the boilerplate Alexa app. Examples of how to define an intent handler, build sample utterences and schema, and response asynchronously are all included. 
+
 ## Creating you Lambda function
 
 Each Alexa skill requires a Lambda function. 
