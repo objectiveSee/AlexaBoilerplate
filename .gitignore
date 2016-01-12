@@ -12,3 +12,4 @@ node_modules
 
 # PROJECT SPECIFIC
 dist
+config/*.json
