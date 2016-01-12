@@ -7,7 +7,7 @@ Create a file called `config/default.json` and fill in the required fields:
 ```js
 {
 	"Amazon" : {
-		"lambda-arn" : "required,
+		"lambda-arn" : "required",
 		"profile" : "optional"
 	},
 	"Apple" : {
