@@ -25,7 +25,7 @@ grunt deploy
 
 ## The Sample Project
 
-Check out `index.js` for the boilerplate Alexa app. Examples of how to define an intent handler, build sample utterences and schema, and response asynchronously are all included. 
+Check out `index.js` for the boilerplate Alexa app. Examples of how to define an intent handler, build sample utterences and schema, and response asynchronously are all included. You can also see example projects located in the `examples/` directory.
 
 ## Creating you Lambda function
 
