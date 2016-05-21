@@ -1,5 +1,6 @@
 {
 	"Amazon" : {
 		"lambda-arn" : "YOUR ARN HERE",
+		"profile": ""
 	}
 }
